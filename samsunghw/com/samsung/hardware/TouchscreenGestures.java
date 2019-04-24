@@ -15,11 +15,11 @@
  * limitations under the License.
  */
 
-package org.cyanogenmod.hardware;
+package com.samsung.hardware;
 
-import org.cyanogenmod.internal.util.FileUtils;
+import com.android.internal.util.dotos.FileUtils;
 
-import cyanogenmod.hardware.TouchscreenGesture;
+import samsung.hardware.TouchscreenGesture;
 
 /**
  * Touchscreen gestures API
