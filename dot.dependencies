@@ -1,8 +1,8 @@
 [
   {
     "remote": "github",
-    "repository": "LineageOS/android_packages_resources_devicesettings",
-    "revision": "lineage-16.0",
+    "repository": "dotos/android_packages_resources_devicesettings",
+    "revision": "dot-p",
     "target_path": "packages/resources/devicesettings"
   }
 ]
